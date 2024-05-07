@@ -1,0 +1,12 @@
+#echart {
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 100px;
+  z-index: 1000;
+  background-color: rgba(240, 240, 240, 0.8);
+}
+
+/* .echarts-tooltip {
+    z-index: 2000 !important;
+} */

@@ -1,0 +1,10 @@
+.main-view-container {
+  flex: 3;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+#mapViewDiv {
+  width: 100%;
+  height: 100%;
+}

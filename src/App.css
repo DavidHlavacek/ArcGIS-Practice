@@ -1,9 +1,8 @@
-/* CSS url as a string */
 @import "https://js.arcgis.com/4.29/@arcgis/core/assets/esri/themes/light/main.css";
-/* In App.css */
 
 * {
-    margin: 0;
+  margin: 0;
 }
 
-.App {}
+.App {
+}
